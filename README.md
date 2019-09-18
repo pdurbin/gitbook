@@ -49,6 +49,4 @@ If you have a Harvard email, file a request ticket for Sid access in [the IQSS R
 ![Similarly to the above desktop application, the link to the RStudio application displays in your browser tab.](.gitbook/assets/screen-shot-2019-09-18-at-12.42.45-pm.png)
 
 
-
-
-
+git test
