@@ -9,11 +9,11 @@ description: >-
 
 ## 2019, October - "Sid" 1.0
 
-Initial wide release.  Beta testing.
+Initial wide release. Beta testing.
 
 ## 2019, August - ["Sid" G.9 - Cloud-based Research Computing Environment](https://github.com/hmdc/sid/releases/tag/G.9)
 
-Initial release.  Alpha testing.
+Initial release. Alpha testing.
 
 ## 2006 - On premises Research Computing Environment
 
