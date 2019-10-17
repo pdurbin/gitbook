@@ -6,4 +6,5 @@
 * [Linking To Your Application Environment](linking-to-your-application-environment.md)
 * [Detailed Guide To Sid Applications](detailed-guide-to-sid-applications.md)
 * [Release History](release-history.md)
+* [Moving from local R-Studio to Sid R-Studio](migration.md)
 
