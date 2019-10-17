@@ -32,10 +32,6 @@ If you have a Harvard email, file a request ticket for Sid access in [the IQSS R
 
 ![Select your CPU and RAM requirements, authorize Google Drive \(optional\), and launch the application.](.gitbook/assets/screen-shot-2019-09-18-at-12.42.18-pm.png)
 
-
-
-
-
 ### View the Application\(s\) in the [Dashboard](https://www.uat.sid.hmdc.harvard.edu/#!/dashboard)
 
 ![Your Application\(s\) should now display in the &quot;Interactive Jobs&quot; dashboard.](.gitbook/assets/screen-shot-2019-09-18-at-12.42.35-pm.png)
@@ -47,3 +43,4 @@ If you have a Harvard email, file a request ticket for Sid access in [the IQSS R
 ### Access the RStudio application from the link in the jobs dashboard <a id="access-the-desktop-application-from-the-link-in-the-jobs-dashboard"></a>
 
 ![Similarly to the above desktop application, the link to the RStudio application displays in your browser tab.](.gitbook/assets/screen-shot-2019-09-18-at-12.42.45-pm.png)
+
