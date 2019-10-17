@@ -8,7 +8,7 @@ description: >-
 
 ## Upload to Drive 
 
-Google Drive's web interface provides several ways to [upload local files to their storage service](https://support.google.com/drive/answer/2424368?co=GENIE.Platform%3DDesktop&hl=en), including drag and drop, file chooser, or using their sync app.
+Google Drive's web interface provides several ways to [upload local files to their storage service](https://support.google.com/drive/answer/2424368?co=GENIE.Platform%3DDesktop&hl=en), including drag and drop, file chooser, or using the [desktop Drive app](https://www.google.com/drive/download).
 
 ![Google Drive showing Rmd file and xlsx data file](.gitbook/assets/screen-shot-2019-10-16-at-3.00.40-pm%20%281%29.png)
 
