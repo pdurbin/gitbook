@@ -7,3 +7,5 @@
 * [Detailed Guide To Sid Applications](detailed-guide-to-sid-applications.md)
 * [Release History](release-history.md)
 * [Moving from local R-Studio to Sid R-Studio](moving-from-local-r-studio-to-sid-r-studio.md)
+* [FAQ](faq.md)
+
