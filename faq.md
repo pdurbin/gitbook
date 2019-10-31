@@ -30,3 +30,13 @@ summary(WHS_data[,c(1,4,10)])
 pairs(WHS_data[,c(1,4,10)])
 ```
 
+## How much \[ephemeral\] storage does my job have?
+
+Use to [`df`](https://linux.die.net/man/1/df) `-h` to display disk size. E.g., in the below example, the job has `92G` of disk storage under `Avail`.
+
+```text
+$ df -h $HOME
+Filesystem      Size  Used Avail Use% Mounted on
+overlay         105G   14G   92G  14% /
+```
+
