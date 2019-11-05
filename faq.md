@@ -40,3 +40,15 @@ Filesystem      Size  Used Avail Use% Mounted on
 overlay         105G   14G   92G  14% /
 ```
 
+## How do I cut and paste to and from my Sid Desktop?
+
+Select `Site Settings`in your Sid Desktop browser tab:
+
+![Site settings in Google Chrome browser](.gitbook/assets/screen-shot-2019-11-05-at-12.50.21-pm.png)
+
+Select `Clipboard` -&gt; `Allow`
+
+![Clipboard settings: Ask, Allow, and Block](.gitbook/assets/screen-shot-2019-11-05-at-11.18.57-am.png)
+
+Different operating systems and keyboard configurations map copy and paste differently; but it is generally one of Ctrl-C, Option-C, Alt-C, or ⌘-C for copy \(and Ctrl-V, Option-V, Alt-V, or ⌘-V for paste\).
+
