@@ -2,7 +2,7 @@
 
 ## What is my Sid username and password?
 
-Your Sid credentials are your [HarvardKey](https://key.harvard.edu) username and password.
+Your Sid credentials are your [HarvardKey](https://key.harvard.edu) e-mail address and password.
 
 ## Can I FTP files between Sid and my local computer using FileZilla or some other FTP program?
 
@@ -16,7 +16,7 @@ Sid will support batch jobs in a [future release](https://github.com/hmdc/sid/is
 
 Use the [`httr`](https://www.rdocumentation.org/packages/httr/versions/1.4.1) [`GET`](https://www.rdocumentation.org/packages/httr/versions/1.4.1/topics/GET) function, e.g.,
 
-```r
+```
 library(httr)
 
 # Example World Health data
@@ -34,7 +34,7 @@ pairs(WHS_data[,c(1,4,10)])
 
 Use [`df`](https://linux.die.net/man/1/df) `-h` to display disk size. E.g., in the below example, the job has `92G` of disk storage under `Avail`.
 
-```text
+```
 $ df -h $HOME
 Filesystem      Size  Used Avail Use% Mounted on
 overlay         105G   14G   92G  14% /
