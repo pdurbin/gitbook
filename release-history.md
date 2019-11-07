@@ -16,5 +16,3 @@ Initial wide release. Beta testing.
 Initial release. Alpha testing.
 
 ## 2006 - On premises Research Computing Environment
-
-test edit
