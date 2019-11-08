@@ -54,7 +54,7 @@ Different operating systems and keyboard configurations map copy and paste diffe
 
 ## How do I connect my Google Drive to my Sid Job?
 
-In the [job launcher](https://www.sid.hmdc.harvard.edu/vmSelectDedicated), select the Google Drive:
+In the [job launcher](https://www.sid.hmdc.harvard.edu/vmSelectDedicated), select `Google Drive` under `Connected Storage`:
 
 ![](.gitbook/assets/screen-shot-2019-11-08-at-2.07.40-pm.png)
 
