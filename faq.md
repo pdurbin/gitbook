@@ -52,3 +52,11 @@ Select `Clipboard` -&gt; `Allow`
 
 Different operating systems and keyboard configurations map copy and paste differently; but it is generally one of Ctrl-C, Option-C, Alt-C, or ⌘-C for copy \(and Ctrl-V, Option-V, Alt-V, or ⌘-V for paste\).
 
+## How do I connect my Google Drive to my Sid Job?
+
+In the [job launcher](https://www.sid.hmdc.harvard.edu/vmSelectDedicated), select the Google Drive:
+
+![](.gitbook/assets/screen-shot-2019-11-08-at-2.07.40-pm.png)
+
+See [this screencast](https://d.pr/v/adp0tJ) for a demonstration of attaching a Google Drive to a Sid job.
+
