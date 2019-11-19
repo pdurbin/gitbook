@@ -102,5 +102,37 @@ The [Firefox](https://www.mozilla.org/en-US/firefox/) browser is is available
 
 ![Firefox in the Internet Menu](.gitbook/assets/screen-shot-2019-11-19-at-12.45.54-pm__internet_firefox-and-xpra.png)
 
+## What command-line tools are available in the Sid Desktop?
 
+The Sid Desktop has hundreds of commands pre-installed such as the following:
+
+```text
+R
+docbook
+emacs
+gcc
+git
+gnuplot
+imageMagick
+java
+lua
+make
+octave
+perl
+python2
+python3
+rpm
+rxvt
+screen
+tcl
+texlive
+texstudio
+tix
+tk
+tmux
+vim
+zip
+```
+
+The [YUM package manager](http://yum.baseurl.org/) can list, query, and add additional command-line tools to the Sid Desktop. 
 
