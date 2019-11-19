@@ -80,7 +80,7 @@ The Sid Desktop runs LxQT, [The Lightweight Qt Desktop Environment](https://lxqt
 
 ### Education
 
-GNU Octave is a free alternative to [MATLAB](https://www.mathworks.com/products/matlab.html).
+GNU Octave is a free alternative to [MATLAB](https://www.mathworks.com/products/matlab.html) available in the Education menu.
 
 ![GNU Octave and QGIS Desktop in the Fedora Education menu](.gitbook/assets/screen-shot-2019-11-19-at-12.27.27-pm-educations__octave-grass-gis-qgis_desktop__saga-gis.png)
 
@@ -98,7 +98,7 @@ GNU Octave is a free alternative to [MATLAB](https://www.mathworks.com/products/
 
 ### Internet
 
-The [Firefox](https://www.mozilla.org/en-US/firefox/) browser is is available 
+The [Firefox](https://www.mozilla.org/en-US/firefox/) browser is available in the Internet menu.
 
 ![Firefox in the Internet Menu](.gitbook/assets/screen-shot-2019-11-19-at-12.45.54-pm__internet_firefox-and-xpra.png)
 
