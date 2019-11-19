@@ -64,3 +64,39 @@ See [this screencast](https://d.pr/v/adp0tJ) for a demonstration of attaching a 
 
 No.  A CPU is a CPU and RAM is RAM.  Sid does not allocate _cheaper_, worse-performing hardware based on request size.  Additionally, running multiple jobs will not degrade performance.  Sid users can run up to eleven jobs without any performance degradation \(as each is allocated dedicated resources from AWS\).
 
+## How do I launch an app from the Sid Desktop?
+
+The Sid Desktop runs an LxQT, [The Lightweight Qt Desktop Environment](https://lxqt.org/).  Like all desktop environments, the left-hand corner opens a menu of available GUI X Windows applications.
+
+### System Tools
+
+[QTerminal](http://manpages.ubuntu.com/manpages/bionic/en/man1/qterminal.1.html) is available under System Tools.  It is a multi-tab terminal emulator, which can run command-line applications.
+
+![Several terminal emulators, e.g., QTerminal, XTSerm, rxvt are in the System Tools Fedora menu.](.gitbook/assets/screen-shot-2019-11-19-at-12.27.27-pm-system-tools.png)
+
+### Education
+
+GNU Octave is a free alternative to [MATLAB](https://www.mathworks.com/products/matlab.html).
+
+![GNU Octave and QGIS Desktop in the Fedora Education menu](.gitbook/assets/screen-shot-2019-11-19-at-12.27.27-pm-educations__octave-grass-gis-qgis_desktop__saga-gis.png)
+
+### Office
+
+[LyX](https://www.lyx.org) and [TeXstudio](www.texstudio.org) are LaTeX authoring tools for academic papers.
+
+![LyX and TeXstudio in the Fedora Office menu](.gitbook/assets/screen-shot-2019-11-19-at-12.27.27-pm-office-lyx-and-textstudio.png)
+
+### Programming
+
+[Emacs](https://www.gnu.org/software/emacs/) is a popular text editor available in the Programming menu.
+
+![Emacs text editor in the Programming Fedora menu](.gitbook/assets/screen-shot-2019-11-19-at-12.27.27-pm-programming-emacs.png)
+
+### Internet
+
+The [Firefox](https://www.mozilla.org/en-US/firefox/) browser is is available 
+
+![Firefox in the Internet Menu](.gitbook/assets/screen-shot-2019-11-19-at-12.45.54-pm__internet_firefox-and-xpra.png)
+
+
+
