@@ -66,7 +66,11 @@ No.  A CPU is a CPU and RAM is RAM.  Sid does not allocate _cheaper_, worse-perf
 
 ## How do I launch an app from the Sid Desktop?
 
-The Sid Desktop runs an LxQT, [The Lightweight Qt Desktop Environment](https://lxqt.org/).  Like all desktop environments, the left-hand corner opens a menu of available GUI X Windows applications.
+When Sid has completed provisioning your desktop environment, a link to it will appear below `Access Url` in the dashboard:
+
+![](.gitbook/assets/screen-shot-2019-11-19-at-12.51.07-pm.png)
+
+The Sid Desktop runs LxQT, [The Lightweight Qt Desktop Environment](https://lxqt.org/).  Like all desktop environments, the left-hand corner opens a menu of useful GUI X Windows applications including web browsers, terminal emulators, text editors, LaTeX editors, and more.
 
 ### System Tools
 
