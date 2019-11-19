@@ -10,7 +10,7 @@ No.  Please use [Google Drive](http://drive.google.com) to transfer data into an
 
 ## How do I run a batch job?
 
-Sid will support batch jobs in a [future release](https://github.com/hmdc/sid/issues?utf8=✓&q=is%3Aissue+is%3Aopen++batch).
+Sid will support [classical batch-style processing](https://en.wikipedia.org/wiki/Batch_processing) in a [future release](https://github.com/hmdc/sid/issues?utf8=✓&q=is%3Aissue+is%3Aopen++batch).  Currently, batch-style jobs can run indefinitely in the background _without user input_ within an [interactive job](https://www.sid.hmdc.harvard.edu/vmSelectDedicated).
 
 ## How do I read a network file in R?
 
